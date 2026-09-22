@@ -2,6 +2,8 @@
 
 
 # Ex19 Palindrome Check Using Deque
+## 24/08/2026
+
 ## AIM:
 To design a program that checks whether a given message is a palindrome by removing all non-alphanumeric characters, converting all characters to lowercase, and using a deque data structure for comparison.
 
