@@ -1,6 +1,8 @@
 
 
 # Ex18 Simulation of a Ticket Counter Using Queue (Linked List Implementation)
+## 21/08/2026
+
 ## AIM:
 To simulate the functioning of a ticket counter that operates on a First-In-First-Out (FIFO) basis using a queue implemented via a linked list in Java.
 
